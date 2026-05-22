@@ -40,7 +40,7 @@ SELECT
     type,
     COUNT(*) AS total_content
 FROM netflix
-GROUP BY type
+GROUP BY type;
 
 🚀 Complex Business Problems & SQL Solutions
 1. Global Content Distribution Analysis
@@ -257,8 +257,6 @@ GitHub: github.com/Prabhav54
 LinkedIn: linkedin.com/in/prabhav-khare
 
 Email: prabhavkhare54@gmail.com
-    COUNT(*) AS total_content
-FROM netflix
-GROUP BY type;
+   
 
 
